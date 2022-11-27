@@ -7,7 +7,7 @@ db.execute("CREATE TABLE IF NOT EXISTS User(UserId integer primary key autoincre
 		   "text, user_name text, email_address text, password, payment_method text, date_of_birth text, city);")
 
 first_name = "Lisa"
-last_name = "Dünck-Kerst"
+last_name = "D"
 user_name = "Lisbeth123"
 email_address = "lisa@email.de"
 password = "schwerzumerken123"
